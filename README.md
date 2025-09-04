@@ -12,9 +12,6 @@ Chinchón card game implementation, featuring:
 ![game](https://github.com/user-attachments/assets/c85b7a6d-a6c9-4556-a1ac-da74150478e6)
 
 
-
-<img width="1512" alt="Screenshot 2024-06-23 at 19 26 11" src="https://github.com/marianogappa/truco/assets/1078546/881e7204-f1a6-4de2-a0b5-60faa43b4fac">
-
 ### Installation
 
 Either install using Go
