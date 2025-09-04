@@ -9,8 +9,6 @@ Chinchón card game implementation, featuring:
 - [example React-based frontend](https://github.com/devblac/chinchon-frontend), and a simple, [documented](https://github.com/devblac/chinchon/blob/main/CONTRIBUTING.md#making-your-own-frontend) interface for making your own frontend
 - [example bot](https://github.com/devblac/chinchon/blob/main/examplebot/newbot/bot.go), and a simple, [documented](https://github.com/devblac/chinchon/blob/main/CONTRIBUTING.md#making-your-own-bot) interface for making your own
 
-![game](https://github.com/user-attachments/assets/c85b7a6d-a6c9-4556-a1ac-da74150478e6)
-
 
 ### Installation
 
