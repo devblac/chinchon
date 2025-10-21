@@ -1,0 +1,4 @@
+dist/
+/truco
+!/truco/
+truco-main.zip
